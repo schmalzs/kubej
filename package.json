@@ -1,0 +1,8 @@
+{
+  "name": "kubej",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/schmalzs/kubej.git",
+  "author": "Scott Schmalz <scott.schmalz@gmail.com>",
+  "license": "MIT"
+}
